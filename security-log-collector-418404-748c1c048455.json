@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "security-log-collector-418404",
+  "private_key_id": "748c1c0484556dd1c4a44975253efa760acdfe03",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDTF9jwh3S+DeTl\n6RhE9SolBcxJlxHBRFWyYql9ePVq+umxIHz4h5RUpmtuLtLwjoQC/RymtSbK8pFE\n1GZcZbGNhEGFNCGIuw7mOpIVPo0oBx4/W7QjWWr+Z+M3avWlicgzKh5ul7Mu4X3m\nV/a4dBFyMpUvFPD6mZtIdVdYBIIFdmxdR9xFMlm3nYEejHJZ6APRmIJpaCuB/G2a\nKKMDC2CU49hRatP4IhJXh8V84o7Fth7yeB6JIVuV4smUwgzSXV/rjDj73AwkoqG8\nkfNib+2RoEdKJ+8soacX01kw9jgdYtNt8YPAcNFWgQ5b/PG2PJoAlrbXWgiwyGqN\nxad57tppAgMBAAECggEAAqu5wxcIOhl1ebWv0GYEjZW+xC9nRnBK8mycGNloISCG\nWRNrDxRpNVJPDJ0Gw9ThZjuE7852R/+MEJn4s0rcwyPybi4FAdYa6DOqv3/fWBk2\nMgvhaaOPjzucNsc888A69QgZcKk/jlImPkMhm2I5IqqD70Q7Lpdf/eyPSjTNKCaD\nftjJ9ptqfLNgZ+I/t5HDF75qggy7vft3fENo2ZB3AxkuIYRq3a9J/OM5VgF9aGFk\n4hcAGCObyWGQ4brBvs12U2ZexEh+CSlrvvbvXZKGX5LDiwO7xsSJoWwyTB3WmMsU\nLvF70kiMmwRJksLJT/ZYNLg+Xm/g4ZpsG22a9UEHlQKBgQDo1t8fkj310b2QVimf\nIvcbVRmNLx5MjB1nwrZlen/aD7trEpZLXUkOh0ZqfRSLijMJBl6ktT/qSUfN4WfC\n+dyUtvBc0tZQa61lIDB9PaFDwLuGuKwYogsO2uiOB0o7yqRGipZva3i2XOHEsCxq\nMFER7eDuOhQjE1vR2YHyvUr8NwKBgQDoFziLfOlwFDohu38Sk3jt5u0GZwZSgBcr\ny+EKjlugPGJW3Cjn3pbXRZFlUoakBTxkZbfb2//eWDp9EnspauWfSkUgqM2A/kSB\n1u7ZLeH0OF2X5f3hRA4/Atra8aVihnoIemaH+TvmTPv52wr5q8AcFZIIAOsEEzkc\nzPa9v5HOXwKBgGCoQnvSs9IGPdFbU2/yje5Ux4SqmMNiLxrR4/IAhm65tS3fy3CB\ny0Ayu/Kc9hhvSHxonoV1kJDr1tkKx45TN1StFN8Tz1AXQyYF1NtI6Fc9/RsSMq8P\nJdQG4B+FuzVTDBsUkRqz3KqnqDmEgQub/yuYOpXqmk1tTeKxjpZ8KlLFAoGABkLa\nG6k7AvMIvnA4dV/VG1Xnfwy4dvFNrrjJUWeVwTTf0kgOMnMmzpfp3Dnlt/cMMgks\ndJnyxSTMLyOYfv2LREjUpJTpNlmlr3sE5ob+WYBLxhVGTBVx7PE+xjlOpOHL2P60\nVWa73vKkuZDXMvUXMarDTcP4kxuRpt1Aqs3IOTECgYBal7Uz0KJCrXwnexw5ub7F\nX+g4o/xSOA08WXrJBxWRojvgobsXePRDZ+TPax7SdiSg7udJPG0vQtwnIDEDLywa\ngGDaCBv0+PDNRUv+7s46VgoaBwawJHZjmP1KtctKLQdr71UxCQ7P17YlNbi+rOkd\nKTdG3wGYjm8IseJ68izbjQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-exposure@security-log-collector-418404.iam.gserviceaccount.com",
+  "client_id": "106942816380098295799",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-exposure%40security-log-collector-418404.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
